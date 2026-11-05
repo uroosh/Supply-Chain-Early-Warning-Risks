@@ -2,7 +2,7 @@
 
 **Research question:** can a transparent, data-driven risk framework identify supply-chain conditions that warrant earlier operational review and resilience planning?
 
-Dashboard: _add Tableau Public link_ | Report: `report/`
+Dashboard:(https://public.tableau.com/app/profile/uroosh.niazi2790/viz/SupplyChainEarlyWarningDashboard/Supply-ChainEarly-WarningDashboard) | Report: `report/`
 
 ![Dashboard](tableau/dashboard.png)
 
