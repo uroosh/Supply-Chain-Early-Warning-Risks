@@ -1,0 +1,8 @@
+__pycache__/
+*.egg-info/
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+.pytest_cache/
+build/
+data/processed/scored_items_rebuilt.csv

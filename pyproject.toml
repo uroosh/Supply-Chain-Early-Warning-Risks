@@ -1,0 +1,17 @@
+[project]
+name = "scrisk"
+version = "1.0.0"
+description = "Open framework for early supply-chain risk detection"
+requires-python = ">=3.10"
+dependencies = ["pandas", "numpy"]
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[project.optional-dependencies]
+dev = ["pytest"]
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
